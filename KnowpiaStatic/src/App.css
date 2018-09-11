@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+.content{
+  padding-bottom:70px;
+  padding-left:250px;
+  padding-right:250px;
+}
+p{
+  text-align:justify;
+}
+
+.board{
+  padding:40px;
+}
+.exeteam{
+ 
+  padding-bottom:20px;
+}
+
+
+
+
+
+.board > img{
+  width:100%;
+  border-radius:50%;
+
+}
+.value
+{
+   border:1px solid #a8dde0 !important;
+   margin: 20px;
+   height:100px;
+   box-shadow: 0 8px 6px -6px black;
+   margin-bottom:90px;
+
+
+}
